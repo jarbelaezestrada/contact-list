@@ -1,6 +1,6 @@
 //Crea una lista de contactos con datos predefinidos, cada contacto debe contener el nombre y apellido como una sola cadena de caracteres
 const listContact = [
-    {id: 1010, name: "Daniel Montoya"},
+    {id: 1010, name: "Daniel", apellido: "Montoya"},
     {id: 1011, name: "Sebastian Arbeláez"},
     {id: 1012, name: "Martha Bermudez"},
     {id: 1013, name: "Maria Estrada"},
